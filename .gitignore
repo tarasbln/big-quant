@@ -1,0 +1,94 @@
+# Python Bytecode and Cache Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (common data formats)
+*.csv
+*.json
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.feather
+*.parquet
+*.tsv
+
+# Logs and Debugging Files
+logs/
+*.log
+*.out
+*.err
+*.prof
+
+# Compiled and Temporary Files
+*.so
+*.dll
+*.dylib
+*.swp
+*.swo
+*.tmp
+*~
+
+# IDE and Editor-Specific Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency and Package Files
+node_modules/
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Machine Learning & Backtesting Artifacts
+*.pkl
+*.pickle
+models/
+model/
+results/
+output/
+backtests/
+
+# Secrets and Configuration Files
+config.yaml
+config.json
+secrets.*
+credentials.*
+*.pem
+*.key
+
+# Coverage and Testing Artifacts
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache
+
+# Miscellaneous
+MANIFEST
+*.manifest
+*.spec
