@@ -44,10 +44,10 @@ pip install -r requirements.txt
 
 We welcome contributions from students, researchers, and finance enthusiasts. You can contribute by:
 - Submitting pull requests with research, code improvements, or new strategies.
-- Reporting issues or suggesting enhancements via GitHub Issues.
+- Reporting issues or suggesting enhancements via [GitHub Issues](https://github.com/tarasbln/big-quant/issues).
 - Engaging in discussions to refine methodologies and trading models.
 
-Before contributing, please read our **[Contribution Guidelines](CONTRIBUTING.md)**.
+Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
